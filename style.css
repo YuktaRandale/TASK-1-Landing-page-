@@ -1,0 +1,196 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #f3d6b4;
+}
+nav{
+    width: 90%;
+    height: 50px;
+    background: rgb(128, 47, 47);
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    border-radius: 20px;
+}
+.logo{
+font-size: x-large;
+letter-spacing: 2px;
+font-weight: 1000;
+display: flex;
+justify-content: center;
+margin: 10px;
+}
+.menu a:hover{
+    border-bottom: 2px solid rgb(red, green, blue);
+}
+.menu a {
+    text-decoration: None;
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 70px;
+   
+}
+.nav2 button{
+    background-color: blue;
+    color: rgb(201, 186, 197);
+    margin-right: 40px;
+    border-radius: 30px;
+    height: 32px;
+    width:fit-content;
+    border:none;
+    font-weight: 700;;
+}
+
+.picture img{
+    height: 600px;
+    width:fit-content;
+    margin-top: 10px;
+ 
+ 
+}
+.picture{
+    display: flex;
+    justify-content: center;
+   
+}
+.shop-section{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.cards{
+    background-color: gray;
+    border: 2px black;
+    height: 500px;
+    width: 350px;
+    border-radius: 10;
+    padding: 0px 0px 15px;
+    margin-top: 15px;
+    box-shadow: 6px 6px 10px black;
+    margin-left: 30px;
+}
+.card-img1{
+    background-image:url("whitelip.jpeg");
+    /* background-size: cover; */
+    height: 350px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+h2{
+    margin-left: 40PX;
+}
+
+.btn1{
+    background-color: brown;
+    height: 30px;
+    width: 250px;
+    margin-left: 45px;
+}
+
+.btn2{
+    background-color: brown;
+    height: 30px;
+    width: 250px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+.cart{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.cards2{
+    background-color: gray;
+    border: 2px black;
+    height: 500px;
+    width: 350px;
+    border-radius: 10;
+    padding: 0px 0px 15px;
+    margin-top: 15px;
+    box-shadow: 6px 6px 10px black;
+    margin-left: 30px;
+}
+.card-img2{
+    background-image:url("NAIL.jpeg");
+    /* background-size: cover; */
+    height: 350px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+h2{
+    margin-left: 40PX;
+}
+
+.btn1{
+    background-color: brown;
+    height: 30px;
+    width: 250px;
+    margin-left: 45px;
+}
+
+.btn2{
+    background-color: brown;
+    height: 30px;
+    width: 250px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+.cards3{
+    background-color: gray;
+    border: 2px black;
+    height: 500px;
+    width: 350px;
+    border-radius: 10;
+    padding: 0px 0px 15px;
+    margin-top: 15px;
+    box-shadow: 6px 6px 10px black;
+    margin-left: 30px;
+}
+.card-img3{
+    background-image:url("blueshampoo.jpeg");
+    /* background-size: cover; */
+    height: 350px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+h2{
+    margin-left: 40PX;
+}
+
+.btn1{
+    background-color: brown;
+    height: 30px;
+    width: 250px;
+    margin-left: 45px;
+}
+
+.btn2{
+    background-color: brown;
+    height: 30px;
+    width: 250px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+ footer{
+    background-color: rgba(20, 115, 115, 0.596);
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 50px;
+
+} 
